@@ -1,16 +1,11 @@
-# Alessandro Masella — Web Design & Development
+# Masella Web Studio
 
-Sito vetrina statico responsive.
+Sito vetrina statico in HTML/CSS/JS, pronto per GitHub Pages.
 
-## Pagine
-- index.html
-- servizi.html
-- portfolio.html
-- chi-siamo.html
-- contatti.html
+- Brand: Masella Web Studio
+- Palette: blu / azzurro / bianco
+- Logo: `assets/logo.svg`
+- Immagini locali: `assets/hero-devices.jpg`, `assets/officinali-preview.jpg`
+- Menu responsive per smartphone
 
-## Prima della pubblicazione
-1. Inserire email/WhatsApp reali nella pagina contatti.
-2. Collegare il form a un servizio (Formspree, Netlify Forms, backend proprio, ecc.).
-3. Personalizzare prezzi e portfolio.
-4. Pubblicare su GitHub Pages, Netlify o hosting tradizionale.
+Il modulo contatti è ancora dimostrativo e può essere collegato successivamente a email, Formspree, Netlify Forms o backend.

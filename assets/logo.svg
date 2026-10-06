@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 92" role="img" aria-label="Masella Web Studio">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B5ED7"/><stop offset="1" stop-color="#24B7F4"/></linearGradient></defs>
+  <path d="M10 70 29 17c2-6 10-8 14-2l18 27L79 14c4-6 12-4 15 2l18 54H91L79 37 66 59c-3 5-10 5-13 0L40 38 28 70Z" fill="url(#g)"/>
+  <path d="M55 70 80 29l9 15-22 26Z" fill="#123B73" opacity=".95"/>
+  <text x="124" y="45" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="1.2" fill="#102F57">MASELLA</text>
+  <text x="124" y="72" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="500" letter-spacing="5" fill="#1674C8">WEB STUDIO</text>
+</svg>
